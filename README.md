@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/ADITHYA23000033/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514544/7d4a4983-e333-4481-b5fc-b6ef1991eb03)
+
+### Name: ADITHYA V
+### Register Number: 23000033
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
